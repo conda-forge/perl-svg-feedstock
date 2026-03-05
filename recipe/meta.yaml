@@ -1,6 +1,6 @@
 {% set name = "perl-svg" %}
-{% set version = "2.87" %}
-{% set sha256 = "b3fa58c1c59942b4ebef003da97c3e01e531480ca29e8efbe327ff0589c0bd3c" %}
+{% set version = "2.89" %}
+{% set sha256 = "74751f6880accbf93b2235161ec459a3d07909928794c90f1adc91b158db7711" %}
 
 package:
   name: {{ name }}
